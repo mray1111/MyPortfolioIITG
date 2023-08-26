@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-This repository contains my personal portfolio website. You can view it [here](YOUR_PORTFOLIO_LINK).
+This repository contains my personal portfolio website. You can view it [here](https://mray1111.github.io/MyPortfolioIITG/).
